@@ -1,4 +1,4 @@
-# Mateo's Power-lifting App
+# Mateo's Weightlifting App
 
 ## Setup
 
